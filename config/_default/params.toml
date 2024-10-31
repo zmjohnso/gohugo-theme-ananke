@@ -249,3 +249,10 @@ label = "YouTube"
 color = "#cd201f"
 profile = "https://www.youtube.com/@%s"
 icon = "youtube" # font awesome brand icon name
+
+[[ananke.social.networks]]
+slug = "nostr"
+label = "Nostr"
+color = "#7c3aed"
+profile = "https://nosta.me/%s"
+icon = "nostrich" # Nostr Design nostrich icon: https://nostrdesign.org/docs/resources/

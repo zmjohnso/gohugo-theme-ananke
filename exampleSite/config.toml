@@ -54,7 +54,8 @@ networks = [
 networks = [
   "facebook",
   "bluesky",
-  "linkedin"
+  "linkedin",
+  "nostr"
 ]
 
 [params.ananke.social]
@@ -67,3 +68,6 @@ username = "patrickkollitsch"
 
 [params.ananke.social.bluesky]
 username = "kollitsch.dev"
+
+[params.ananke.social.nostr]
+username = "npub1cn4t4cd78nm900qc2hhqte5aa8c9njm6qkfzw95tszufwcwtcnsq7g3vle"
